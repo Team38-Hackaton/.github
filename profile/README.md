@@ -57,5 +57,19 @@ npm install
 npm start
 ```
 
+## Как развернуть бэкенд
+Склонируйте репозиторий:
+```
+git clone https://github.com/Team38-Hackaton/backend
+```
+Установите зависимости:
+```
+pip install -r requirements.txt
+```
+Запустите проект:
+```
+python -m main
+```
+
 ## Ссылка на деплой
 [Click!](https://memory-game-nine-gamma.vercel.app)
